@@ -1,2 +1,14 @@
 # Calculating-detonation-parameters-of-propane-oxygen-mixture
-Project was held under SDToolbox and Cantera libraries. Programming language is python 2.7
+
+Simulation of propane - oxygen mixture detonation with different starting parameters, which are: temperature, pressure
+and equivalence ratio. Project purpose is to calculate and analyze detonation parameters.
+
+Environment requirements: 
+* Python 2.x
+* SDToolbox
+* Libraries:
+  * NumPy
+  * Csv
+  * Matplotlib
+  * Sys
+
